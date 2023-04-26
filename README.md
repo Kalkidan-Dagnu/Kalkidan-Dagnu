@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksiyum" alt="ksiyum" /></a> </p>
 
-- 🔭 I’m currently studying on [Software Engineering at Hielco](https://www.hilcoe.net/)
+- 🔭 I’m currently studying MSC on [Software Engineering at Hielco](https://www.hilcoe.net/)
 
 - 🌱 I’m currently learning **Mastering React on Udemy**
 
