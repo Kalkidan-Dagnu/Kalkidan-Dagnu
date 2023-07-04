@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kalkidan Siyum</h1>
 <h3 align="center">A passionate frontend and backend developer from Ethiopia.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ksiyum&label=Profile%20views&color=0e75b6&style=flat" alt="ksiyum" /> </p>
+<div>
+    <div style="width: '50%'">
+      <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksiyum&label=Profile%20views&color=0e75b6&style=flat" alt="ksiyum" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksiyum" alt="ksiyum" /></a> </p>
 
@@ -14,6 +15,12 @@
 - 💬 Ask me about **Web Development and it's roadmap**
 
 - 📫 How to reach me **kal.negassy@gmail.com**
+    </div>
+  <div style="width: '50%'">
+    <a href="https://app.daily.dev/ksiyum"><img src="https://api.daily.dev/devcards/a0f32ab366164c2ebac7463b0a190cb1.png?r=lh0" width="400" alt="Kalkidan Siyum's Dev Card"/></a>
+</div
+
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
