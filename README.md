@@ -36,4 +36,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ksiyum"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ksiyum" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksiyum&show_icons=true&locale=en&layout=compact" alt="ksiyum" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalkidan-Dagnu&show_icons=true&locale=en&layout=compact" alt="ksiyum" /></p>
