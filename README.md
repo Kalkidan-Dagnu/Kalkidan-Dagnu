@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kalkidan Siyum</h1>
 <h3 align="center">A passionate frontend and backend developer from Ethiopia.</h3>
-<div style="display: 'grid'">
-    <div style="text-align: 'center'">
+<div>
+    <div>
       <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kalkidan-Dagnu&label=Profile%20views&color=0e75b6&style=flat" alt="Kalkidan-Dagnu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kalkidan-Dagnu" alt="Kalkidan-Dagnu" /></a> </p>
