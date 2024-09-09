@@ -6,15 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kalkidan-Dagnu" alt="Kalkidan-Dagnu" /></a> </p>
 
-- 🔭 I’m currently studying MSC on [Software Engineering at Hielco](https://www.hilcoe.net/)
+💬 Ask me about **Web Development and it's roadmap**
 
-- 🌱 I’m currently learning **Mastering React on Udemy**
-
-- 👯My area of interest are **Web Applications,UI development, Backe-end development, Devops. Cloud Computiing**
-
-- 💬 Ask me about **Web Development and it's roadmap**
-
-- 📫 How to reach me **kal.negassy@gmail.com**
+- 📫 How to reach me Mail: **kaledagnu@gmail.com**, WhatsApp: **+251 9 22 52 82 15**
     </div>
   <div style="width: '50%'">
     <a href="https://app.daily.dev/ksiyum"><img src="https://api.daily.dev/devcards/a0f32ab366164c2ebac7463b0a190cb1.png?r=lh0" width="400" alt="Kalkidan Siyum's Dev Card"/></a>
