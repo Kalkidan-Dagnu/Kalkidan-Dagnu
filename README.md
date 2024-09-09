@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalkidan Siyum</h1>
-<h3 align="center">A passionate frontend and backend developer from Ethiopia.</h3>
+<h3 align="center">Being passionated creating a world that is more beautiful and easier for everyone to thrive in.</h3>
 <div>
     <div>
       <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kalkidan-Dagnu&label=Profile%20views&color=0e75b6&style=flat" alt="Kalkidan-Dagnu" /> </p>
